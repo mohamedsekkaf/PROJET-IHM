@@ -41,14 +41,14 @@
             <div class="container">
 
                 <div class="logo float-left">
-                    <h1 class="text-light"><a href="index.php"><span>Acceuil</span></a></h1>
+                    <h1 class="text-light"><a href="index.php" onclick="myFunction1()"><span>Acceuil</span></a></h1>
 
                 </div>
                 <nav class="nav-menu float-right d-none d-lg-block">
                     <ul>
-                        <li class="drop-down"><a href="#">Présentation</a>
+                        <li class="drop-down"><a href="#" >Présentation</a>
                             <ul>
-                                <li><a class="top_b" oncklick="myfinction()" href=""> Présentation</a></li>
+                                <li><a class="top_b" oncklick="myfinction()" href="wp-content/themes/estsb_themes/presentation.php"> Présentation</a></li>
                                 <li><a class="top_b" href="">Mot du directeur</a></li>
                                 <li><a class="top_b" href="">ESTSB en chiffres </a></li>
                             </ul>

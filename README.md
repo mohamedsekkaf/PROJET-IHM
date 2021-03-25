@@ -13,4 +13,6 @@
 <h4>étape 2: décompressez le fichier vers le dossier htdocs</h4>
 <img src="https://user-images.githubusercontent.com/49958258/112515321-74419d00-8d96-11eb-9516-ffed44c6bc6e.png">
 
+<h4>étape 3: Creation de la base de donnée  </h4>
+![Capture d’écran 2021-03-25 à 18 23 39](https://user-images.githubusercontent.com/49958258/112516133-41e46f80-8d97-11eb-90ec-ba733b678511.png)
 

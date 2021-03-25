@@ -16,3 +16,5 @@
 <h4>étape 3: Creation de la base de donnée  </h4>
 <img src="https://user-images.githubusercontent.com/49958258/112516133-41e46f80-8d97-11eb-90ec-ba733b678511.png">
 
+<h4> étape 4: entrer des info de la base de donnée </4>
+<img src="https://user-images.githubusercontent.com/49958258/112517116-3e9db380-8d98-11eb-83e6-5771653555a2.png">

@@ -1,2 +1,1 @@
-# projet_IHM
-# mohamedsekkaf
+#Presentation de wordpress

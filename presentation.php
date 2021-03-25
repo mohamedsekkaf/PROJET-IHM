@@ -128,16 +128,102 @@
                         <li><a href="http://www.estsb.ucd.ac.ma/">http://www.estsb.ucd.ac.ma/</a></li>
                     </ol>
                 </div>
+                <br><br>
+                <div class="card">
+                    <img class="card-img-top" src="holder.js/100x180/" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">L’Ecole Supérieure de Technologie Sidi Bennour</h4>
+                        <p class="card-text">L’Ecole Supérieure de Technologie Sidi Bennour (ESTSB) est un établissement
+                            public d’enseignement supérieur à finalité de formation des Techniciens Supérieurs. Elle a
+                            été créée en Août 2016 par le Ministère de l’Enseignement Supérieur, de la Formationdes
+                            Cadres et de la Recherche Scientifique du Royaume du Maroc. L’ESTSB est une composante de
+                            l’UniversitéChouaib Doukkali d’El Jadida. Sa vocation est de former des Techniciens
+                            Supérieurs polyvalents, hautement qualifiéset immédiatement opérationnels après leur sortie
+                            de l’Ecole en tant que collaborateurs d’ingénieurs et de managers.Sont admis à l’ESTSB, les
+                            bacheliers de l’enseignement secondaire technique, scientifique et tertiaire. L’admission à
+                            l’Ecole(au de Diplôme Universitaire de Technologie « DUT ») se fait par voie de sélection
+                            par ordre de mérite après une présélection surla base des notes obtenues au baccalauréat.
+                            Les candidats doivent être âgés de 22 ans au plus au 31 Décembre de l’année du concourset
+                            doivent déposer leurs dossiers de pré-inscription avant le 30 Juin de chaque année
+                            universitaire.</p>
+                    </div>
+                </div>
+                <br><br>
+                <div class="card">
+                    <img class="card-img-top" src="holder.js/100x180/" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Orientation appliquée de l’enseignement</h4>
+                        <p class="card-text">La formation appliquée à l’ESTSB est largement tournée vers les Technologies d’Information et de Communication, les Techniques de Gestion, les langues vivantes, les Systèmes et Réseaux Informatiques, les conceptions et les réalisations informatiques, c’est pourquoi ses programmes ont toujours le souci de répondre aux exigences et aux attentes de l’environnement socio-économique de l’Ecole et font appel à des méthodes pédagogiques actives et évoluées. Les</p>
+                        <p class="card-text">programmes d’enseignement comportent des Cours magistraux, des Travaux Pratiques (TP), des Travaux Dirigés (TD) et des Dossiers et Travaux de Réalisation, des Projets de Fin d’Etude, des Stages d’Initiation et des Stages de Stages Techniques dans les entreprises, les organismes socio-professionnels, les collectivités locales et les administrations publiques.</p>
+                    </div>
+                </div>
+                <br><br>
+                <div class="card">
+                    <img class="card-img-top" src="holder.js/100x180/" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Durée des études</h4>
+                        <p class="card-text">La durée des études est de deux années universitaires avec 16 modules d’enseignement. La première année s’étale sur 32 semaines suivies de quatre semaines de stage d’initiation après la fin de S2 et avant le démarrage de S3 dans l’entreprise en Juillet ou Aout à raison de 24 jours avec un rapport et une soutenance. La deuxième année est de 36 semaines dont 8 semaines de stage technique et dispensé à raison de 48 jours pour 36 heures par semaine en moyenne avec un rapport et une soutenance.</p>
+                    </div>
+                </div>
+
             </div>
 
 
 
+
         </div>
-        <!-- ////////////////////////////////////////// -->
+        <br><br>
+
+        <footer id="footer">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <p style="text-align:center;" class="small-text pull-lef ">
+                            <font color='#8ab5d6'>&copy; Ecole Supérieure de Technologie Sidi Bennour</font>
+                        </p>
+                    </div> <!-- /.col-md-5 -->
+                    <div class="col-12">
+                        <ul style="text-align:center; text-decoration: none;list-style-type:none"
+                            class="footer-nav drop-down">
+                            <li style="text-decoration: none;list-style-type:none"><a
+                                    href="actualite.php"><b>Actualité</b></a></li>
+                            <li style="text-decoration: none;list-style-type:none"><a
+                                    href="contact.php"><b>Contact</b></a></li>
+                        </ul>
+
+                    </div> <!-- /.row -->
+                </div>
+                <div class="col-12 center">
+                </div>
+                <!-- mawa9i3 tawasol ijtima3i!!!!!!!! -->
+                <div class="head d-flex justify-content-center">
+                    <div class="row" style="display: block!important;">
+                        <a href="https://facebook.com"><img class="circle"
+                                src="<?php echo get_template_directory_uri()?>/image/facebook.png" width="40"
+                                height="40" /></a>
+                        <a href="https://www.instagram.com"><img class="circle"
+                                src="<?php echo get_template_directory_uri()?>/image/instagram.svg" width="40"
+                                height="40" /></a>
+                        <a href="estsb.ucd@gmail.com"> <img class="circle" src="" /></a>
+                        <a href=""> <img class="circle" src="" /></a>
+                    </div>
+                </div>
+            </div>
+            <!-- nihayat mawa9i3 tawasol ijtima3i!!!!!!!! -->
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright <strong><span><?php echo '20'.date('y'); ?></span></strong>. All Rights Reserved
+                </div>
+                <div class="credits">
+
+                    Designed by <a href="#">MOHAMMED SEKKAF</a>
+
+                </div>
+            </div>
+        </footer><!-- End #footer -->
 
 
-
-    </body>
     </body>
 
 </html>

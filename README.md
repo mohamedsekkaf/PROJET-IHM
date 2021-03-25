@@ -18,3 +18,7 @@
 
 <h4> étape 4: entrer des info de la base de donnée </4>
 <img src="https://user-images.githubusercontent.com/49958258/112517116-3e9db380-8d98-11eb-83e6-5771653555a2.png">
+<h4> étape 5: entrer des info de votre site </4>
+<ul><li>Saisissez le titre du site (peut être modifié ultérieurement). Entrez le nom de l'administrateur, il est nécessaire pour la connexion à WP (revérifiez et écrivez quelque part de côté). Entrez un mot de passe pour l'administrateur (vérifiez et écrivez quelque part). Saisissez une adresse e-mail pour l'administrateur (également une double vérification). Cliquez sur Installer WordPress pour terminer tout ce que nous avons commencé.</li></ul>
+<img src="https://user-images.githubusercontent.com/49958258/112518174-6ccfc300-8d99-11eb-94c7-a0a895084e30.png">
+

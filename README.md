@@ -9,7 +9,7 @@
 
 <ul><li>Le CMS WordPress peut fonctionner sur notre ordinateur. L'une des principales raisons à cela est que de cette façon, vous pouvez tester WordPress avant de le placer sur le serveur, ou vous pouvez faire la programmation (création de thèmes, plugins ...) et la création dans WordPress sans investissement (GRATUIT) en hébergement, domaine et services d'accompagnement. WordPress installé de cette manière sera entièrement fonctionnel et se comportera comme n'importe quel autre site.</li></ul>
 <h4>étape 1: télécharger le dossier wordpress </h4>
-![Capture d’écran 2021-03-25 à 18 01 50](https://user-images.githubusercontent.com/49958258/112513976-22e4de00-8d95-11eb-9a8f-03dc36e4428f.png)
+(https://user-images.githubusercontent.com/49958258/112513976-22e4de00-8d95-11eb-9a8f-03dc36e4428f.png)
 
 
 

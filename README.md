@@ -22,3 +22,20 @@
 <ul><li>Saisissez le titre du site (peut être modifié ultérieurement). Entrez le nom de l'administrateur, il est nécessaire pour la connexion à WP (revérifiez et écrivez quelque part de côté). Entrez un mot de passe pour l'administrateur (vérifiez et écrivez quelque part). Saisissez une adresse e-mail pour l'administrateur (également une double vérification). Cliquez sur Installer WordPress pour terminer tout ce que nous avons commencé.</li></ul>
 <img src="https://user-images.githubusercontent.com/49958258/112518174-6ccfc300-8d99-11eb-94c7-a0a895084e30.png">
 
+<ul><li>Si vous voyez un message comme sur l'image ci-dessous, cela signifie que vous avez installé WordPress avec succès. Cliquez sur Connexion pour vous connecter au tableau de bord WP.</li></ul>
+<img src="https://user-images.githubusercontent.com/49958258/112518696-e9fb3800-8d99-11eb-8010-d48c277cd945.png">
+<h4>étape 6: connexion </h4>
+<img src="https://user-images.githubusercontent.com/49958258/112519053-478f8480-8d9a-11eb-8cf4-95a5ebf06b70.png">
+<h3>When you click on the Log In, you will be forwarded to the control panel:</h3>
+<img src="https://user-images.githubusercontent.com/49958258/112519346-92a99780-8d9a-11eb-86e6-2d8f3274d786.png">
+
+<h1>L'interface du site</h1>
+<img src="https://user-images.githubusercontent.com/49958258/112519755-f764f200-8d9a-11eb-8802-657dcf6076c8.png">
+<img src="https://user-images.githubusercontent.com/49958258/112519782-fcc23c80-8d9a-11eb-8943-db142a451158.png">
+<img src="https://user-images.githubusercontent.com/49958258/112519979-37c47000-8d9b-11eb-87e8-3b1b4559e44c.png">
+
+
+
+
+
+

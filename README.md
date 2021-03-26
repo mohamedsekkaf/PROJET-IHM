@@ -5,7 +5,7 @@
 
 <hr>
 
-<h1>3:  Comment installer Wordpress sur votre mac </h1>
+<h1>3:  Comment installer Wordpress sur votre ordinateur </h1>
 
 <ul><li>Le CMS WordPress peut fonctionner sur notre ordinateur. L'une des principales raisons à cela est que de cette façon, vous pouvez tester WordPress avant de le placer sur le serveur, ou vous pouvez faire la programmation (création de thèmes, plugins ...) et la création dans WordPress sans investissement (GRATUIT) en hébergement, domaine et services d'accompagnement. WordPress installé de cette manière sera entièrement fonctionnel et se comportera comme n'importe quel autre site.</li></ul>
 <h4>étape 1: télécharger le dossier wordpress </h4>
